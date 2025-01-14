@@ -13,7 +13,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:background="@color/purple_200"
         app:layout_constraintTop_toTopOf="parent"
         android:padding="8dp">
 
@@ -23,9 +22,10 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:backgroundTint="@color/cardview_dark_background"
+            android:onClick="add_city"
             android:text="@string/add_city"
-            android:textColor="@android:color/white"
-            android:backgroundTint="@color/cardview_dark_background"/>
+            android:textColor="@android:color/white" />
 
         <Button
             android:id="@+id/button_delete"

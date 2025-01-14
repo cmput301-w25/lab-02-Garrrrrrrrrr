@@ -3,13 +3,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Garrick Tse`
+- **CCID:** `gtse1`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+Android App Development in Java All-in-One Tutorial Series (4 HOURS!) - https://www.youtube.com/watch?v=tZvjSl9dswg&t=1791s
 ## Verbal Collaboration
 
 | Student Name | CCID      |

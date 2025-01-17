@@ -29,8 +29,16 @@ public void sendMessage(View view)
     // Do something in response to button click
 }
 ```
+The following video was used as general introduction to java:
+
 
 Android App Development in Java All-in-One Tutorial Series (4 HOURS!) - https://www.youtube.com/watch?v=tZvjSl9dswg&t=1791s
+
+Authored by: Caleb Curry
+
+Taken by: Garrick Tse
+
+Taken on: 2025-01-14
 
 ## Verbal Collaboration
 

@@ -9,7 +9,21 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-https://www.geeksforgeeks.org/handling-click-events-button-android-java/ - Handling Click Events in Button in Java Android
+# The following function format is taken from geeksforgeeks.org
+"Handling Click Events in Button in Java Android" 2025-01-06
+# Authored by: Geeksforgeeks
+# Taken by:  Garrick Tse
+# Taken on: 2025-01-16
+
+android:onClick="sendMessage" 
+/>
+/** Called when the user touches the button */
+public void sendMessage(View view)
+{
+    // Do something in response to button click
+}
+
+  - Handling Click Events in Button in Java Android
 Android App Development in Java All-in-One Tutorial Series (4 HOURS!) - https://www.youtube.com/watch?v=tZvjSl9dswg&t=1791s
 
 ## Verbal Collaboration
